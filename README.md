@@ -1,7 +1,7 @@
 # oop-malovana-ellen2
 
 ## Spuštění
-1. Spusť lokální server (např. Live Server nebo `npx http-server`)  
+1. Spusť lokální server (např. Live Server)
 2. Otevři `index.html` v prohlížeči  
 3. Otevři konzoli (F12) → uvidíš výstupy programu
 
